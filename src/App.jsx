@@ -112,7 +112,7 @@ export default function App() {
           <aside className="w-64 bg-[#1a1a1a] p-6 flex flex-col items-center shadow-lg h-screen fixed top-0 left-[4.5rem]">
             <div className="group">
               <img
-                src="public/sidepr.jpeg"
+                src="/sidepr.jpeg"
                 alt="profile"
                 className="rounded-full w-24 h-24 object-cover border-1 border-pink-500 transition duration-300 ease-in-out group-hover:scale-110 group-hover:border-pink-400 group-hover:shadow-xl"
               />
@@ -180,7 +180,7 @@ export default function App() {
                   <div className="absolute w-[230px] h-[230px] border-[3px] border-yellow-400 rounded-full animate-spin-reverse-slower opacity-70 group-hover:opacity-100 group-hover:scale-110 transition duration-500" />
                   <div className="transition-all duration-500 ease-in-out hover:scale-105 hover:shadow-lg">
                     <img
-                      src="public/profile.jpeg"
+                      src=" /profile.jpeg"
                       alt="profile-right"
                       className="rounded-full w-48 h-48 object-cover border-[3px] border-white shadow-xl z-10 transition duration-500 group-hover:scale-105 group-hover:shadow-[0_0_30px_#ec4899]"
                     />
