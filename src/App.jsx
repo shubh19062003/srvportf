@@ -203,7 +203,7 @@ export default function App() {
                 {/* Profile Card */}
                 <div className="bg-[#1a1a1a] rounded-2xl shadow-xl p-8 w-full max-w-sm text-center duration-300 group">
                   <img
-                    src="public/sidepr.jpeg"
+                    src="/sidepr.jpeg"
                     alt="about-pic"
                     className="mx-auto rounded-xl w-40 h-40 object-cover border-1 border-pink-500 shadow-lg transition-all duration-500 ease-in-out group-hover:scale-110 group-hover:border-pink-400 group-hover:shadow-xl"
                   />
