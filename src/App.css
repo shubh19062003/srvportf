@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-color: #0f0f0f;/* base dark */
+  background-image: 
+    url('/blizzard-1920x1080.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
